@@ -4,6 +4,10 @@ project.lock.json
 .DS_Store
 *.pyc
 nupkg/
+Hellofirstapp
+OOPPlayground.App
+Shapes.app
+OOPPlayground.sln
 
 # Visual Studio Code
 .vscode
